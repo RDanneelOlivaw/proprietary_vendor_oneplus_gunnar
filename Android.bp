@@ -34,7 +34,6 @@ cc_prebuilt_library_shared {
 		none: true,
 	},
 	target: {
-		: {
 			srcs: ["proprietary/vendor/lib/libthermalclient.so"],
 		},
 		: {
